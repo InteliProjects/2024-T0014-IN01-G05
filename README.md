@@ -65,7 +65,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - Execute o seguinte comando:
 
-   git clone https://github.com/Inteli-College/2024-T0014-IN01-G05.git
+   git clone https://github.com/InteliProjects/2024-T0014-IN01-G05
 
 - Isso irá baixar o código do jogo para o seu sistema local.
 
