@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pocket Supplier</title>
+
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>
+
+    <style>
+      body {
+        display: flex;
+        margin: 0;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--ADICIONANDO OS ARQUIVOS DO TIPO .JS, QUE CONTEM AS CENAS, AO NOSSO ARQUIVO PRINCIPAL HTML-->
+    <script type="text/javascript" src="src/dat.gui.min.js"></script>
+
+    <script src="src/scenes/telaInicial.js"></script>
+
+    <script src="src/scenes/cenaFinal/due.js"></script>
+
+    <script src="src/scenes/terceiraMecânica/minigame3.js"></script>
+    <script src="src/scenes/terceiraMecânica/Cand1.js"></script>
+    <script src="src/scenes/terceiraMecânica/Cand2.js"></script>
+    <script src="src/scenes/terceiraMecânica/Cand3.js"></script>
+    <script src="src/scenes/terceiraMecânica/Cand4.js"></script>
+
+    <script src="src/scenes/lobbyScene.js"></script>
+    <script src="src/scenes/cenaUm.js"></script>
+    <script src="src/scenes/cenaDois.js"></script>
+    <script src="src/scenes/cenaTres.js"></script>
+
+    <script src="src/scenes/primeiraMecanica/Political.js"></script>
+    <script src="src/scenes/primeiraMecanica/Pasta.js"></script>
+    <script src="src/scenes/primeiraMecanica/Privacy.js"></script>
+
+    <script src="src/scenes/MainBrowser.js"></script>
+    <script src="src/scenes/cenaQuatro.js"></script>
+
+    <script src="src/scenes/cutscenes/elevatorCutscene.js"></script>
+    <script src="src/scenes/cutscenes/startCutscene.js"></script>
+    <script src="src/scenes/cenaFinal/cenaFinal1.js"></script>
+    <script src="src/scenes/cutscenes/elevadorCutscene2.js"></script>
+
+    <script src="src/scenes/segundaMecanica/Fornecedor_1/browser_F1.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_1/link_1_F1.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_1/link_2_F1.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_1/link_3_F1.js"></script>
+
+    <script src="src/scenes/segundaMecanica/Fornecedor_2/browser_F2.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_2/link_1_F2.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_2/link_2_F2.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_2/link_3_F2.js"></script>
+
+    <script src="src/scenes/segundaMecanica/Fornecedor_3/browser_F3.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_3/link_1_F3.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_3/link_2_F3.js"></script>
+    <script src="src/scenes/segundaMecanica/Fornecedor_3/link_3_F3.js"></script>
+
+  <script src="src/scenes/segundaMecanica/Fornecedor_4/browser_F4.js"></script>
+  <script src="src/scenes/segundaMecanica/Fornecedor_4/link_1_F4.js"></script>
+  <script src="src/scenes/segundaMecanica/Fornecedor_4/link_2_F4.js"></script>
+  <script src="src/scenes/segundaMecanica/Fornecedor_4/link_3_F4.js"></script>
+  <script src="src/scenes/segundaMecanica/email/certo.js"></script>
+  <script src="src/scenes/segundaMecanica/email/metamail.js"></script>
+  <script src="src/scenes/segundaMecanica/email/escrever.js"></script>
+  <script src="src/scenes/segundaMecanica/email/favoritos.js"></script>
+  <script src="src/scenes/segundaMecanica/email/errado.js"></script>
+  <script src="src/scenes/segundaMecanica/email/mmc.js"></script>
+  <script src="src/scenes/segundaMecanica/email/ShineMaster.js"></script>
+  <script src="src/scenes/segundaMecanica/email/contatosMMC.js"></script>
+  <script src="src/scenes/segundaMecanica/email/ErrouAcertandoMMC.js"></script>
+  <script src="src/scenes/segundaMecanica/email/ErrouAcertandoShine.js"></script>
+  <script src="src/scenes/segundaMecanica/email/contatos_techlume.js"></script>
+  <script src="src/scenes/segundaMecanica/email/techlume.js"></script>
+  <script src="src/scenes/segundaMecanica/email/ErrouMMC.js"></script>
+  <script src="src/scenes/segundaMecanica/email/ErrouShine.js"></script>
+  <script src="src/scenes/segundaMecanica/email/contatosShine.js"></script>
+  <script src="src/scenes/cenaFinal/selecaoFornecedores.js"></script>
+  <script src="./src/scenes/cenaFinal/terminacao.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/link_1_FF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/link_2_FF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/link_3_FF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/browserFF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/acertouFF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/errouFF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/contatosFF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/iws.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/metamailFF.js"></script>
+  <script src="./src/scenes/cenaFinal/site2/MainBrowserFF.js"></script>
+
+  <script src="src/scenes/cenaFinal/cenaFinal2.js"></script>
+  <script src="src/scenes/cenaFinal/cenaFinal3.js"></script>
+  <script src="src/scenes/cenaFinal/cenaFinal4.js"></script>
+  <script src="src/scenes/cenaFinal/onboarding/Cand1Final.js"></script>
+  <script src="src/scenes/cenaFinal/onboarding/Cand2Final.js"></script>
+  <script src="src/scenes/cenaFinal/onboarding/Cand3Final.js"></script>
+  <script src="src/scenes/cenaFinal/onboarding/Cand4Final.js"></script>
+  <script src="src/scenes/cenaFinal/onboarding/onboarding.js"></script>
+  <script src="src/scenes/cenaFinal/cenaFinalDE.js"></script>
+  
+<script src="src/scenes/creditos.js"></script>
+<script src="src/scenes/integrantes/Fernando.js"></script>
+<script src="src/scenes/integrantes/Ibiapina.js"></script>
+<script src="src/scenes/integrantes/Davi.js"></script>
+<script src="src/scenes/integrantes/Leo.js"></script>
+<script src="src/scenes/integrantes/Mateus.js"></script>
+<script src="src/scenes/integrantes/Renan.js"></script>
+<script src="src/scenes/integrantes/Murilo.js"></script>
+
+
+  <script src="src/scenes/main.js"></script>
+
+</body>
+
+</html>

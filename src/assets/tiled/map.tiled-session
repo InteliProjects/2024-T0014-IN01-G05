@@ -1,0 +1,157 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "tiled2",
+        "tiled2/conjuntos",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/Inteli/Documents/GitHub/testetiled/assets/map.tmx": {
+            "expandedGroupLayers": [
+                8
+            ],
+            "scale": 1,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 733,
+                "y": 439.5
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/testetiled/assets/map.tmx#officeInterior": {
+            "scaleInDock": 1.5
+        },
+        "Interiors_free_16x16.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1.5
+        },
+        "conjunto de blocos/Interiors_free_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "conjunto de blocos/Interiors_free_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "conjunto de blocos/Interiors_free_48x48.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "conjunto de blocos/MainTileMap.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "conjunto de blocos/OfficeInterior.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "conjunto de blocos/Tilemap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "conjunto de blocos/japaneseCityFree.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "map.json": {
+            "expandedGroupLayers": [
+                8
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": -34.66666666666663,
+                "y": 476.6666666666667
+            }
+        },
+        "map.json#officeInterior": {
+            "scaleInDock": 1.5
+        },
+        "map.json": {
+            "scale": 0.610078125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 635.1645537200666,
+                "y": 477.8076578307082
+            }
+        },
+        "map.json#OfficeInterior": {
+            "scaleInDock": 1
+        },
+        "map.json#japaneseCityFree": {
+            "scaleInDock": 1
+        },
+        "map.tmj": {
+            "scale": 0.610078125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.081956716609,
+                "y": 481.08592649506977
+            }
+        },
+        "map.tmj#officeInterior": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "expandedGroupLayers": [
+                8
+            ],
+            "scale": 1,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 865,
+                "y": 434.5
+            }
+        },
+        "map.tmx#MainTileMap": {
+            "scaleInDock": 1
+        },
+        "map.tmx#OfficeInterior": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "map.tmx#japaneseCityFree": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx#officeInterior": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/Documents/GitHub/testetiled/assets",
+    "last.imagePath": "C:/Users/Inteli/Documents/tiled/comprados/gdm-the-japan-collection-office-interior-game-assets/Tilemap",
+    "lastUsedTilesetExportFilter": "Ficheiros de conjunto de blocos JSON (*.tsj *.json)",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "map.tmx",
+        "map.json",
+        "conjunto de blocos/japaneseCityFree.tsx"
+    ],
+    "project": "map.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "conjunto de blocos/japaneseCityFree.tsx",
+        "map.json",
+        "map.tmx",
+        "map.tmj",
+        "map.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

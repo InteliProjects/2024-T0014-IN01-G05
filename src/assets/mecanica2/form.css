@@ -1,0 +1,73 @@
+#input-form {
+    padding: 10px;
+    font-size: 1.2rem;
+    width: calc(430% - 20px); /* Mudança: atualizado para ocupar 100% menos 20px de padding */
+    /* Mudança: adicionado estilo de borda */
+    outline: none;
+    opacity: '100%' 
+}
+
+#input-form input {
+    padding: 10px;
+    font-size: 1.5rem;
+    width: calc(100%); /* Mudança: atualizado para ocupar 100% menos 20px de padding */
+    /* Mudança: adicionado estilo de borda */
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+    outline: none;
+    opacity: '100%';
+    border-color: #000000; /* Mudança: cor da borda quando o input está em foco */
+    /* border-radius: 5%; */
+    border-width: 8px;
+    border-top-left-radius: '50%';
+    border-top-right-radius: '50%';
+    border-bottom-left-radius: '50%';
+    border-bottom-right-radius: '50%';
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+
+}
+
+#input-form input::placeholder { /* Mudança: especificação do placeholder para o input */
+    padding: 10px;
+    font-size: 1.2rem;
+    font-family: "VT323", monospace;
+    width: calc(430% - 20px); /* Mudança: atualizado para ocupar 100% menos 20px de padding */
+    /* Mudança: adicionado estilo de borda */
+    outline: none;
+    opacity: '100%';
+}
+
+#input-form input:focus {
+    border-color: #000000; /* Mudança: cor da borda quando o input está em foco */
+    /* border-radius: 5%; */
+    border-width: 8px;
+    border-top-left-radius: '50%';
+    border-top-right-radius: '50%';
+    border-bottom-left-radius: '50%';
+    border-bottom-right-radius: '50%';
+    color: slategray;
+}
+
+/* Estilo para o efeito de gradiente no final do formulário */
+/* .webflow-style-input::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 2;
+    width: 100px;
+    height: 2px;
+    background: linear-gradient(to right, #B294FF, #57E6E6, #FEFFB8, #57E6E6, #B294FF);
+    background-size: 300% 100%;
+    animation: gradient 3s linear infinite;
+} */
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 500%;
+    }
+}

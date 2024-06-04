@@ -1,0 +1,3055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="32" tileheight="32" infinite="0" nextlayerid="31" nextobjectid="1">
+ <editorsettings>
+  <export target="../GitHub/testetiled/assets/a.tmj" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="officeInterior" tilewidth="32" tileheight="32" tilecount="2262" columns="78">
+  <image source="comprados/gdm-the-japan-collection-office-interior-game-assets/Tilemap/MainTileMap.png" width="2496" height="928"/>
+  <tile id="47">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="29" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="48">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="3" y="11" width="29" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="49">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="21" width="22" height="11">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="50">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="17" width="22" height="15">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="51">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="18" width="23" height="14">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="52">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="21" width="22" height="11">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="57">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="58">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="59">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="30" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="60">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="61">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="30" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="70">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="71">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="72">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="125">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="29" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="126">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="3" y="0" width="29" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="127">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="128">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="129">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="130">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="135">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="136">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="137">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="30" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="138">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="139">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="30" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="144">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="145">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="146">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="148">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="149">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="150">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="151">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="195">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="202">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="19" y="20" width="13" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="19" y="20" width="13" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="203">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="20" width="19" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="20" width="19" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="208">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="26" width="6" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="209">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="26" width="18" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="211">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="13" width="32" height="19">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="213">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="2" y="24" width="30" height="8">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="214">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="24" width="30" height="8">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="215">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="21" y="1" width="11" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="216">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="1" width="32" height="30">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="222">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="223">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="224">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="226">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="227">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="228">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="229">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="272">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="273">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="280">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="12" y="0" width="20" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="12" y="0" width="20" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="281">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="22" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="282">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="21" y="26" width="11" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="283">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="16" width="32" height="16">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="284">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="16" width="32" height="16">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="285">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="26" width="11" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="286">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="287">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="289">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="291">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="12" y="0" width="20" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="292">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="20" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="294">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="20" width="32" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="300">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="302">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="304">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="350">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="351">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="360">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="20" y="0" width="12" height="20">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="361">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="362">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="363">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="12" height="20">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="369">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="3" y="0" width="24" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="370">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="4" y="0" width="24" height="32"/>
+    <object id="2" x="4" y="0" width="24" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="371">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="21" y="1" width="11" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="372">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="373">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="1" width="11" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="1" width="11" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="378">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="7">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="379">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="7">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="380">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="7">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="382">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="383">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="428">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="429">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="437">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="2" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="438">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="2" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="440">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="1" y="10" width="31" height="14">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="441">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="10" width="29" height="14">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="443">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="447">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="0" width="13" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="9" y="0" width="13" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="448">
+   <objectgroup draworder="index" id="3">
+    <object id="20" x="9" y="0" width="13" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="21" x="9" y="0" width="13" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="450">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="19" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="451">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="13" y="11" width="19" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="460">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="461">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="506">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="507">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="515">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="10" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="516">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="10" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="517">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="22" width="22" height="10">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="518">
+   <objectgroup draworder="index" id="3">
+    <object id="2" x="0" y="22" width="22" height="10">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="3" x="0" y="22" width="22" height="10">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="521">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="4" y="13" width="23" height="19">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="525">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="29" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="526">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="3" y="11" width="29" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="528">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="19" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="529">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="13" y="0" width="19" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="538">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="539">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="584">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="585">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="593">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="594">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="595">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="596">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="599">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="603">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="29" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="604">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="3" y="0" width="29" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="606">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="29" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="607">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="3" y="11" width="29" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="662">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="663">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="671">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="26" width="6" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="672">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="26" width="7" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="673">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="26" width="6" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="674">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="26" width="7" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="680">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="28" width="32" height="4">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="28" width="32" height="4">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="681">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="28" width="32" height="4">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="28" width="32" height="4">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="684">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="29" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="685">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="3" y="0" width="29" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="686">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="687">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="688">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="740">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="741">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="749">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="750">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="751">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="752">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="753">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="27" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="754">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5" y="11" width="27" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="755">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="10" width="16" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="762">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="26">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="763">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="26">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="818">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="819">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="827">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="25" y="25" width="7" height="7">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="828">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="27" width="16" height="5">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="831">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="27" height="14">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="832">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5" y="0" width="27" height="14">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="833">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="0" width="16" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="834">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5" y="6" width="23" height="26">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="835">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5" y="8" width="23" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="836">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="20" width="16" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="837">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="32" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="838">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="32" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="839">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="4" y="0" width="28" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="840">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="28" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="28" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="841">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="6" width="15" height="26">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="842">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="843">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="844">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="846">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="847">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="8" width="6" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="848">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="6" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="850">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="20" width="22" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="851">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="20" width="22" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="853">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="32" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="854">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="11" width="32" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="896">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="897">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="904">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="5" width="15" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="905">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="906">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="907">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="4" width="22" height="28">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="908">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="4" width="22" height="28">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="910">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="15" y="11" width="17" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="911">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="10" width="16" height="22"/>
+    <object id="2" x="8" y="10" width="16" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="912">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5" y="0" width="23" height="7">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="913">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5" y="0" width="23" height="7">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="914">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="0" width="16" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="915">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="13">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="13">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="916">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="13">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="13">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="917">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="23" y="0" width="9" height="8">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="918">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="23" height="8">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="919">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="0" width="15" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="920">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="921">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="922">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="923">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="924">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="925">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="926">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="928">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="23">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="929">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="931">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="932">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="933">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="26" width="6" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="934">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="26" width="7" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="974">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="975">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="976">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="977">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="978">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="979">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="980">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="981">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="982">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="2" width="14" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="983">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="4" width="10" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="988">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="15" y="0" width="17" height="14">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="989">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="0" width="16" height="14">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="992">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="20" width="16" height="12">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="993">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="22" width="22" height="10"/>
+    <object id="2" x="10" y="22" width="22" height="10">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="994">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="22" width="22" height="10">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="995">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="12" y="26" width="20" height="6">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="996">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="28" width="19" height="4">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="997">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="7" y="11" width="21" height="16">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="999">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1000">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1002">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1003">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1004">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1011">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1012">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1052">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1053">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1054">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1055">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1056">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1057">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1058">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1059">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1060">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="12" y="0" width="20" height="30">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1061">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="30">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1070">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="0" width="16" height="9">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1071">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1072">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1073">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="4" y="0" width="28" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1074">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="28" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1077">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1078">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1079">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1080">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1081">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1082">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1083">
+   <objectgroup draworder="index" id="2">
+    <object id="4" x="36.3636" y="9.18182" width="0.0909091"/>
+    <object id="29" x="25.9091" y="0.0909091">
+     <polygon points="0,0 5.90909,-0.0909091 6,31.9091 -25.9091,31.9091 -25.8182,7.90909 -0.0909091,7.90909"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1130">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1131">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1132">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1133">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1134">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1135">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1136">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1137">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1139">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="10" width="23" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1140">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="7" width="23" height="25">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1141">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="10" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1142">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="22" height="24"/>
+    <object id="2" x="0" y="8" width="22" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1144">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="1" width="22" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1145">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="1" width="22" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="1" width="22" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1146">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="1" width="22" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1147">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="1" width="22" height="31">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1148">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="8" y="5" width="17" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1149">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="7" y="1" width="17" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1150">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="7" y="4" width="17" height="23">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1151">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="23" y="0" width="9" height="8">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1152">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="23" height="8">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1155">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1156">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="6" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1158">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1159">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1160">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1161">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="8" width="32" height="24">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1208">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="3" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1209">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1210">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1211">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1212">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1213">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1214">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1215">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+    <object id="2" x="0" y="0" width="32" height="32">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1217">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="23" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1218">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="0" width="23" height="27">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1219">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1220">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="18">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1222">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1223">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1224">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="10" y="0" width="22" height="21">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1225">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="22" height="22">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1227">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="7" y="2" width="16" height="26"/>
+    <object id="2" x="7" y="2" width="16" height="26">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1228">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="9" y="2" width="16" height="26">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1229">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="7" y="9" width="18" height="15">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="1231">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5" y="7" width="13" height="25">
+     <properties>
+      <property name="collider" type="bool" value="true"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="2263" source="conjunto de blocos/japaneseCityFree.tsx"/>
+ <layer id="7" name="chao" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,1204,0,0,0,0,
+0,0,0,591,1417,1330,1330,1330,1331,591,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,822,822,822,822,822,822,0,0,0,0,
+0,0,0,591,1407,591,591,591,591,591,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,822,822,822,822,822,822,0,0,0,0,
+0,0,0,591,1498,279,279,279,279,279,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,822,822,822,822,822,822,221,0,0,0,
+0,0,0,591,434,435,435,435,435,435,354,354,354,3221226160,3221226160,3221226160,3221226160,3221226160,354,354,354,354,3221226160,3221226160,3221226160,3221226160,3221226160,354,354,354,822,822,822,822,822,822,825,0,0,0,
+0,0,0,591,591,591,591,591,591,591,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,822,822,822,822,822,822,380,0,0,0,
+0,0,0,591,591,591,591,591,591,591,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,1204,1204,1204,1204,1204,1204,0,0,0,0,
+0,0,0,591,591,591,591,591,591,591,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,1204,1204,1204,1204,1204,1204,0,0,0,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,1204,1204,1204,1204,1204,1204,1204,0,0,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,354,1204,3221226160,3221226160,3221226160,1204,1204,1204,1204,1204,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,1204,1204,1204,588,588,591,591,0,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,668,669,669,953,591,591,0,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,354,354,354,668,669,669,0,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,354,354,354,354,354,0,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,354,354,354,354,354,0,0,
+0,0,0,1204,1204,1204,354,354,354,354,354,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,354,976,976,976,976,976,976,0,0,
+0,1204,1204,1204,1204,1204,1443,354,354,354,354,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,354,899,900,900,900,900,900,0,0,
+0,0,591,591,591,591,951,669,669,670,357,354,354,588,588,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,354,354,354,354,354,354,354,0,0,
+0,0,591,591,591,591,592,357,357,357,357,354,354,588,588,588,588,588,588,588,588,588,588,588,588,354,354,354,354,354,354,354,354,354,354,354,354,354,0,0,
+0,0,591,591,591,591,592,357,354,354,354,354,354,822,822,822,822,822,822,822,822,822,822,822,822,354,354,354,354,354,354,354,354,354,354,354,354,354,0,0,
+0,0,0,1688,591,591,592,357,354,354,354,354,354,822,822,822,822,822,822,822,822,822,822,822,822,354,354,354,354,354,354,354,354,354,354,354,0,0,0,0,
+0,0,0,0,591,591,592,357,354,354,354,354,354,822,822,822,822,822,822,822,822,822,822,822,822,354,354,354,354,354,354,354,354,354,354,354,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,822,0,0,0,0,0,0,0,0,0,0,0,0,822,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1204,0,0,0
+</data>
+ </layer>
+ <layer id="1" name="paredes" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1303,0,0,0,0,0,850,850,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,850,850,1159,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1083,1162,850,850,850,0,
+0,850,850,976,976,976,976,981,976,976,976,981,976,976,976,981,976,976,976,982,976,976,976,981,976,976,976,898,897,976,976,976,976,981,976,976,850,850,850,0,
+0,850,850,927,0,0,0,0,0,926,0,0,850,850,850,0,0,0,0,0,0,0,0,0,850,850,850,850,850,850,927,850,850,850,0,926,0,850,850,0,
+0,850,850,927,0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,850,850,1303,1303,1303,0,0,0,0,0,926,459,850,850,0,
+0,850,850,927,0,0,0,0,0,0,0,0,0,687,688,688,688,689,0,0,0,0,687,688,688,688,689,1303,0,0,1311,0,0,0,0,926,537,0,850,0,
+0,850,850,927,0,0,0,0,0,0,0,0,0,1080,1083,1161,1083,1084,0,0,0,0,1080,1160,1083,1081,1084,850,850,1158,927,0,0,0,1302,926,615,928,850,0,
+0,850,850,927,0,0,0,0,0,926,0,0,0,976,196,976,196,976,0,0,0,0,976,979,976,980,976,0,0,0,1083,1083,1083,1083,1083,1084,0,928,928,0,
+850,850,850,927,0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1297,0,0,0,0,0,1054,1054,1054,1054,1054,1060,0,0,850,0,
+0,850,850,1080,1083,1162,1083,1083,1161,1084,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1135,1135,1135,1132,1132,1138,0,0,850,0,
+0,850,455,1059,1055,1054,976,819,820,0,0,0,0,1159,1083,1161,1083,1083,1083,1083,1083,1083,1161,1083,1083,1083,1083,1162,1087,0,1132,1132,1132,1132,1132,1138,1083,1083,849,0,
+0,850,455,1059,1055,1054,0,0,0,926,0,0,0,585,585,586,585,585,585,507,507,585,585,585,508,507,585,585,1087,0,976,1073742512,1073742512,1073742512,976,976,976,976,927,0,
+0,850,455,1059,1055,1054,1297,1297,0,926,0,0,0,927,0,0,0,0,0,0,0,0,0,0,0,0,0,926,0,0,0,976,979,976,0,0,0,0,927,0,
+0,850,455,1059,1135,1054,1297,1297,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,927,0,
+0,850,455,1137,1135,1134,1297,1297,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,927,0,
+0,850,455,1137,1133,1132,0,0,1297,0,0,0,0,927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,926,2016,2016,2016,2016,2016,2016,2016,2016,2016,927,0,
+0,850,455,1215,1211,1132,0,1299,1297,1374,0,0,0,927,0,0,0,0,0,0,0,0,0,0,0,0,848,1083,1084,2016,2016,2016,1083,1083,1083,1083,1083,1161,927,0,
+0,848,1083,1137,1211,1211,1083,1083,1083,1084,0,0,0,927,0,0,0,0,0,0,0,0,0,0,0,0,926,976,976,0,0,0,976,976,976,976,976,976,927,850,
+0,926,976,976,976,976,976,976,664,976,0,0,0,927,0,0,0,0,0,0,0,0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,927,850,
+0,926,455,0,0,1207,0,0,0,0,0,0,0,1083,1083,1083,1083,1083,1162,1159,1083,1083,1083,1083,1162,1083,1084,0,0,0,0,0,0,0,0,0,0,0,927,850,
+0,926,455,0,0,0,0,0,0,0,0,1391,1391,585,507,585,507,585,585,585,585,508,585,508,585,976,976,0,0,0,0,0,0,0,0,0,0,0,927,850,
+0,844,146,146,849,0,0,0,0,0,0,0,0,1311,0,0,0,0,926,927,0,0,0,0,1311,0,0,0,0,0,0,0,0,0,0,848,146,146,845,0,
+0,922,1059,1055,927,0,0,0,0,0,0,0,0,0,0,0,0,0,926,927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,926,1055,1060,923,0,
+0,922,1059,1053,145,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,146,147,1053,1060,923,0,
+0,1000,1059,1053,1059,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1055,1055,1057,1060,1053,1060,923,0,
+0,1000,1137,1133,1059,1053,1053,1057,1053,1053,1053,1053,1132,1132,1132,1132,1132,1057,1133,1132,1132,72,1053,1053,1132,1132,1053,1053,1135,1055,1055,1132,1132,1133,1057,1138,1133,1060,1079,0,
+0,1000,1137,1133,1137,1211,1133,1135,1135,1133,1133,1133,1211,1211,1210,1210,72,1057,1133,1053,1211,220,222,1132,1132,1132,1132,1053,1135,72,1054,1133,1133,1133,1133,1138,1133,1138,1079,0,
+0,1156,1215,1211,1137,1211,1135,1135,1135,1135,1211,1133,1211,1211,1133,1133,220,221,222,1211,1211,1211,1133,1132,1132,1132,1133,1213,220,221,222,1211,1133,1133,1211,1138,1133,1216,1157,0,
+0,1156,1215,1211,1215,1211,1213,1211,1211,1211,1211,1211,1133,1211,1211,1133,1133,1213,1213,1213,1133,1211,1211,1211,1211,1133,1133,1133,1211,1211,1211,1135,1211,1211,1211,1216,1211,1216,1157,0,
+0,1156,1215,1211,1215,1211,1210,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1211,1213,1211,1211,1213,1211,1211,1211,1216,1211,1216,1157,0
+</data>
+ </layer>
+ <layer id="27" name="paredesDois" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,927,0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,927,0,0,0,0,926,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,927,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,927,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,927,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,926,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,927,687,688,689,1083,1083,0,0,0,0,
+0,0,0,0,0,926,0,0,0,0,0,0,0,927,0,0,0,0,0,0,0,0,0,0,0,0,0,926,0,0,0,1080,1083,1084,0,0,0,0,0,0,
+0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,1083,1083,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,927,0,0,0,0,926,927,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,927,0,0,0,0,926,927,0,0,0,0,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,613,615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,613,614,615,0,0,377,377,0,0,0,0,0,613,614,615,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377,377,377,0,0,0,0,0,0,0,0,0,377,377,377,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="28" name="paredesTres" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1083,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,1083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="24" name="objetos" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,850,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,983,0,0,994,995,522,842,1129,464,1129,371,850,850,0,371,0,0,0,371,0,0,0,993,371,0,0,1385,749,836,842,294,295,296,0,0,0,0,
+0,0,0,0,0,0,1072,1073,600,920,850,0,850,449,423,0,0,449,0,0,0,449,0,0,0,1071,449,0,0,0,827,914,920,372,373,374,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1373,1373,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,208,915,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1300,0,0,0,0,0,0,0,0,0,0,0,998,1300,203,204,912,755,0,998,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,1300,0,1300,0,1300,0,0,0,0,1300,1300,0,1300,0,0,0,0,1300,281,282,990,833,0,0,0,0,0,
+0,0,0,1303,444,283,284,285,286,0,0,0,0,371,0,0,0,371,1295,0,0,0,0,0,371,0,0,0,0,0,1300,0,0,0,0,0,0,0,0,0,
+0,0,0,1303,1303,361,362,363,364,0,0,0,0,449,206,0,0,449,0,0,0,0,0,0,449,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,1300,1300,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,423,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,983,1300,1300,756,0,0,0,0,1300,1300,1239,0,0,0,1239,423,1300,423,0,1235,1235,1235,0,0,1300,1318,1318,0,0,0,996,997,0,0,
+0,0,0,0,0,0,0,0,1077,834,0,0,0,370,0,994,995,842,836,1239,1239,983,912,912,0,1236,1313,371,0,0,1301,0,1300,1318,983,371,1074,1075,0,0,
+0,0,0,0,0,0,1061,1062,1077,1077,0,0,0,448,1062,1072,1073,920,914,1145,1146,0,990,990,1232,1147,1148,449,0,0,1379,370,0,0,2016,449,1152,1153,0,0,
+0,0,0,0,0,0,1061,1062,1077,1077,0,0,0,1305,1295,1295,1295,1295,1295,1223,1224,0,0,0,1239,1225,1226,0,0,2016,2016,448,2016,2016,2016,2016,438,439,0,0,
+0,0,0,0,0,0,1061,1062,1077,1077,0,0,0,1688,1688,1688,1688,1295,1295,1295,1295,0,1295,1295,1239,1239,660,660,660,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,1300,1077,1299,1843,831,0,1688,1688,1147,1148,1688,608,451,0,527,451,1295,452,526,1295,660,660,371,0,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,1151,0,1299,0,0,0,0,1318,1225,1226,1295,686,529,1299,605,529,1295,530,604,1295,1300,1300,449,0,0,0,1239,1239,1239,1239,1239,1239,1239,0,
+0,0,0,0,0,0,1077,0,0,0,0,0,0,1295,1145,1146,1295,831,831,1295,831,831,1295,831,831,1300,1300,763,764,0,0,0,371,837,835,994,995,842,0,0,
+0,0,370,61,58,59,62,983,1318,1318,0,0,0,1318,1223,1224,1295,831,831,831,831,831,1295,831,831,1300,1300,0,0,0,0,0,449,915,913,1072,1073,920,0,0,
+0,0,448,139,136,137,138,740,740,740,0,1374,1239,1239,1239,1239,1239,1239,1239,1239,1239,1239,1239,1239,1239,1300,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,1061,1062,206,1296,740,0,0,681,682,1077,1375,1375,838,838,1305,1239,837,983,839,660,660,842,1239,371,983,0,50,51,52,53,851,852,1304,0,0,0,0,0,
+0,0,0,0,1298,49,0,0,1833,759,760,1313,1375,1375,208,283,284,285,286,283,284,285,286,920,1239,449,0,0,128,129,130,131,929,930,1304,0,0,0,0,0,
+0,0,0,0,1298,127,0,0,0,0,1313,1313,818,818,208,361,362,363,364,361,362,363,364,1239,1239,1239,0,0,203,204,754,910,755,755,911,0,0,0,0,0,
+0,0,0,0,1298,1378,0,0,0,0,0,2146,0,1239,1239,1239,1239,1239,1239,1239,1239,1237,2146,1237,1239,0,0,0,281,282,832,988,833,833,989,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1300,0,0,464,464,464,464,464,464,0,0,0,0,1300,371,0,533,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,464,464,464,464,464,464,464,464,464,464,0,0,0,0,0,449,0,533,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,464,464,464,464,0,0,0,0,0,0,0,0,0,0,464,464,464,464,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="30" name="objetosCityFree" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2395,2396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2455,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1385,1386,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,0,0,2016,0,2016,2016,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,0,2016,0,2016,2016,2016,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="26" name="objetosDois" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,905,1149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1309,0,0,0,0,983,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1309,0,0,0,212,837,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,290,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,998,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1222,1149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,1061,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,0,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,1141,1299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,1219,1299,0,0,0,0,0,0,0,0,527,1140,0,527,48,0,1141,451,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,0,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,605,1218,0,605,126,0,1219,529,0,0,0,0,2016,2016,0,2016,2016,0,983,1149,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,214,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,292,293,0,0,0,917,917,0,0,915,0,917,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="29" name="objetosTres" width="40" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,2016,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,2016,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,1140,0,1141,451,0,1141,1140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127,1218,0,1219,529,0,1219,1218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
